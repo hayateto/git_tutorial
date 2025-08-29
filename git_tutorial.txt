@@ -7,3 +7,5 @@ git diff
 git push
 
 git commit --amend
+
+conflict2
