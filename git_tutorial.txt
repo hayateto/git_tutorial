@@ -9,3 +9,5 @@ git push
 git commit --amend
 
 <p>git merge</p>
+
+conflict
