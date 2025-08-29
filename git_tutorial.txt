@@ -9,3 +9,5 @@ git push
 git commit --amend
 
 conflict2
+
+resolve conflict
