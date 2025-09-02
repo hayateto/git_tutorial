@@ -13,3 +13,5 @@ conflict2
 resolve conflict
 
 add git pull request
+
+<p>git add github_flow</p>
